@@ -32,8 +32,7 @@ This project lets you manage those notes programmatically via simple web request
 2. Install dependencies:
    ```bash
    pip install flask flask_sqlalchemy
-````
-
+   
 3. Initialize the database:
 
    Open Python shell or create a script and run:
